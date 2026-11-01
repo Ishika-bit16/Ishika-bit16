@@ -7,7 +7,4 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=/Ishika-bit16&theme=dark&hide_border=false)<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=/Ishika-bit16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
